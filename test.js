@@ -1,1 +1,2 @@
-conat test ="test":
+const test ="test":
+alert("Hello world!")
